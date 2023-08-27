@@ -1,0 +1,23 @@
+
+
+.hk
+{
+    text-align: center;
+    color: white;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    line-height: 3;
+}
+.btn
+{
+    text-align: center;
+    padding: 0 0 20px;
+    width: 47px;
+    height: 19px;
+    background-color: var(#2874f0);
+    border: 2px solid white;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-left: -1px;
+}
